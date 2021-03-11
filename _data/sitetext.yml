@@ -7,7 +7,7 @@ header:
     #buttonlink: "#services" # "#{section}" or "URL/page link"
 
 about:
-    title: "About"
+    #title: "About"
     text: "I am currently undertaking my PhD as part of the AI4Health CDT at Imperial College London. Previously I obtained my Masters in Bioscience Enterprise at the University of Cambridge and gained professional experience at a global healthcare consultancy firm. I have a passion for entrepreneurship and am highly interested in start ups and how applying innovative technology can create solutions to real world problems."
     #section: about
     
@@ -53,7 +53,7 @@ timeline:
       - title: "University of Cambridge: MPhil Bioscience Enterprise"
         year: "2018 - 2019"
         desc: "Followed my passion to learn about commercialisation and entrepreneurship in the healthcare sector. Saw success in numerous competitions and worked at at a start-up developing a novel AI based precision oncology technology."
-        image: assets/img/timeline/Cam_crest.svg
+        image: assets/img/timeline/Cam_crest.jpg
         alt: 
         align: left
       - title: "Imperial College London: BSc Biochemistry"
