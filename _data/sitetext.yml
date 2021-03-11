@@ -9,7 +9,7 @@ header:
 about:
     title: "About"
     text: "I am currently undertaking my PhD as part of the AI4Health CDT at Imperial College London. Previously I obtained my Masters in Bioscience Enterprise at the University of Cambridge and gained professional experience at a global healthcare consultancy firm. I have a passion for entrepreneurship and am highly interested in start ups and how applying innovative technology can create solutions to real world problems."
-    section: about
+    #section: about
     
 #about:
     #title: "About"
@@ -61,8 +61,8 @@ timeline:
         desc: "Obtained a 1st class undergraduate degree in Biochemistry from Imperial. Specialised in biotechnology and synthetic biology."
         #image: assets/img/timeline/1.jpg
         #alt: 
-        align: left
-    end: ""
+        align: right
+    #end: ""
 
 #about:
     #title: "About Us"
