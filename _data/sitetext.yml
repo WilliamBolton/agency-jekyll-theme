@@ -6,11 +6,16 @@ header:
     #button: Tell Me More
     #buttonlink: "#services" # "#{section}" or "URL/page link"
 
-about:
+#about:
     #title: "About"
     text: "I am currently undertaking my PhD as part of the AI4Health CDT at Imperial College London. Previously I obtained my Masters in Bioscience Enterprise at the University of Cambridge and gained professional experience at a global healthcare consultancy firm. I have a passion for entrepreneurship and am highly interested in start ups and how applying innovative technology can create solutions to real world problems."
     #section: about
-    
+
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+
 #about:
     #title: "About"
     #text: "Lorem ipsum"
@@ -47,13 +52,13 @@ timeline:
       - title: "Healthcare Consultant"
         year: "2019 - 2020"
         desc: "Addressed a range of commercial and business issues while working at CBPartners with a specialist focus on pricing and market access of pharmaceuticals."
-        image: assets/img/timeline/CBP2.png
+        image: assets/img/timeline/CBP3.png
         alt: image alt text
         align: right
       - title: "University of Cambridge: MPhil Bioscience Enterprise"
         year: "2018 - 2019"
         desc: "Followed my passion to learn about commercialisation and entrepreneurship in the healthcare sector. Saw success in numerous competitions and worked at at a start-up developing a novel AI based precision oncology technology."
-        image: assets/img/timeline/Cam_crest2.png
+        image: assets/img/timeline/Cam_crest3.png
         alt: 
         align: left
       - title: "Imperial College London: BSc Biochemistry"
