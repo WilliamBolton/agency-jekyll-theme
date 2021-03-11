@@ -41,26 +41,26 @@ timeline:
       - title: "Imperial College London: AI4Health PhD Researcher"
         year: "2020-2024"
         desc: "Creating data-driven solutions to complex healthcare problems, and leveraging the Imperial ecosystem and my prior experience to ensure a real-world impact. My work under Dr Pantelis Georgiou and Professor Alison Holmes focuses on creating intelligent clinical decision support systems to improve the diagnosis and management of infectious diseases in multimorbid patients."
-        #image: assets/img/timeline/4.jpg
-        #alt: 
+        image: assets/img/timeline/ICL_crest.jpg
+        alt: 
         align: left
       - title: "Healthcare Consultant"
         year: "2019 - 2020"
         desc: "Addressed a range of commercial and business issues while working at CBPartners with a specialist focus on pricing and market access of pharmaceuticals."
-        #image: assets/img/timeline/3.jpg
-        #alt: image alt text
+        image: assets/img/timeline/CBP.png
+        alt: image alt text
         align: right
       - title: "University of Cambridge: MPhil Bioscience Enterprise"
         year: "2018 - 2019"
         desc: "Followed my passion to learn about commercialisation and entrepreneurship in the healthcare sector. Saw success in numerous competitions and worked at at a start-up developing a novel AI based precision oncology technology."
-        #image: assets/img/timeline/2.jpg
-        #alt: 
+        image: assets/img/timeline/Cam_crest.svg
+        alt: 
         align: left
       - title: "Imperial College London: BSc Biochemistry"
         year: "2015-2018"
         desc: "Obtained a 1st class undergraduate degree in Biochemistry from Imperial. Specialised in biotechnology and synthetic biology."
-        #image: assets/img/timeline/1.jpg
-        #alt: 
+        image: assets/img/timeline/ICL_crest.jpg
+        alt: 
         align: right
     #end: ""
 
