@@ -6,14 +6,9 @@ header:
     #button: Tell Me More
     #buttonlink: "#services" # "#{section}" or "URL/page link"
 
-#about:
-    #title: "About"
-    text: "I am currently undertaking my PhD as part of the AI4Health CDT at Imperial College London. Previously I obtained my Masters in Bioscience Enterprise at the University of Cambridge and gained professional experience at a global healthcare consultancy firm. I have a passion for entrepreneurship and am highly interested in start ups and how applying innovative technology can create solutions to real world problems."
-    #section: about
-
 about:
-    title: "About Us"
-    text: "our story"
+    title: "About"
+    text: "I am currently undertaking my PhD as part of the AI4Health CDT at Imperial College London. Previously I obtained my Masters in Bioscience Enterprise at the University of Cambridge and gained professional experience at a global healthcare consultancy firm. I have a passion for entrepreneurship and am highly interested in start ups and how applying innovative technology can create solutions to real world problems."
     section: about
 
 #about:
